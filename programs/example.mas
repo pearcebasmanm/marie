@@ -1,0 +1,7 @@
+Load Number1
+Add Number2
+Store Place
+Halt
+Number1, Hex 0023
+Number2, Hex FFE9
+Place, Hex 0000

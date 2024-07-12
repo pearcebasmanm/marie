@@ -1,0 +1,9 @@
+ORG 100
+Start, Input
+Skipcond 800
+Jump Start
+Add Two
+Output
+Halt
+Two, Dec 2
+END
